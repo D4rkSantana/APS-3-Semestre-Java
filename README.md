@@ -3,3 +3,7 @@ Repositorio para armazenar e compartilhar o conteudo da atividade supervisonada 
 
 Todos os creditos da biblioteca ao desenvolvedor Gefersom C. Lima. da UFF - Universidade Federal Fluminense - Institudo de Computação - Ciência da Computação
 Site: http://www2.ic.uff.br/jplay/index.html
+
+link do executavel:
+https://drive.google.com/open?id=1LCGXGUNfRI1vGF6hPjaQWAYiT_dRk6kR
+
